@@ -4,7 +4,7 @@ I am a Programmer, Cloud engineer, Penetration tester
 
 
 - 🔭 Working on Java, System Administration
-- 🌱 Learning on AWS Cloud, ECH
+- 🌱 Learning on AWS Cloud, Certified Ethical Hacker (CEH)
 - 💬 About to Vist www.linkedin.com/in/rejroky/
 - 📫 Reach me: rej.roky@gmail.com
 
