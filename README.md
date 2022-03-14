@@ -1,20 +1,12 @@
 ### Hi there 👋
+### This is Rejaul Islam Roky
+### I am a programmer, cloud engineer, penetration tester
 
 
-<!--
-**rejRoky/rejRoky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Working on Java, SysAdmin
+- 🌱 Learning on AWS Cloud, ECH
+- 💬 About to Vist https://www.linkedin.com/in/rejroky/
+- 📫 Reach me: rej.roky@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rejRoky&layout=compact&langs_count=15&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
