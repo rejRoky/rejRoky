@@ -3,8 +3,8 @@ This is Rejaul Islam Roky <br>
 I am a Programmer, Cloud engineer, Penetration tester
 
 
-- 🔭 Working on System Administration, Cloud Engineering 
-- 🌱 Learning on JAVA, AWS Cloud,CEH
+- 🔭 Working on IT Support, System Administration And Cloud Engineering
+- 🌱 Learning on Azure Cloud, AWS Cloud, Cyber Security 
 - 💬 About to Vist www.linkedin.com/in/rejroky/
 - 📫 Reach me: rej.roky@gmail.com
 
