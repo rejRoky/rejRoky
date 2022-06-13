@@ -4,8 +4,8 @@ I am a Programmer and Cloud engineer.
 
 
 - 🔭 Working on Python, Django, DevOps, IoT Project
-- 🌱 Learning on Azure Cloud, AWS Cloud, Cyber Security 
-- 💬 About to Vist www.linkedin.com/in/rejroky/
+- 🌱 Learning on Java EE, AWS Cloud, Cyber Security 
+- 💬 About to Vist www.linkedin.com/in/rejroky
 - 📫 Reach me: rej.roky@gmail.com
 
 
