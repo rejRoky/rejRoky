@@ -1,6 +1,6 @@
 ### Hi there 👋
 This is Rejaul Islam Roky <br>
-I am a Programmer, Cloud engineer, Penetration tester
+I am a Programmer, Cloud engineer, Penetration tester.
 
 
 - 🔭 Working on Python, Django, DevOps, IoT Project
